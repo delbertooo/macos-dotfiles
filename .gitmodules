@@ -1,0 +1,3 @@
+[submodule "SF-Mono-Powerline"]
+	path = terminal/SF-Mono-Powerline
+	url = https://github.com/Twixes/SF-Mono-Powerline
